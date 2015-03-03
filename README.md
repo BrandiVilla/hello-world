@@ -1,2 +1,3 @@
 # hello-world
 learning to use this
+Hello World.  Hoping this will become a bit more comfortable as I play with it.  Kind of foreign to me at the moment...
